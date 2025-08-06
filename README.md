@@ -7,15 +7,6 @@ Bu proje, Trendyol'un filtreleme ve ürün listeleme sistemini örnek alarak haz
 - Next.js
 - React
 - Tailwind CSS
-- Zustand (veya useState) ile State Management
-
-## 📸 Görseller
-
-### Web Görünüm
-![Web Görünüm](./screenshots/web-view.png)
-
-### Mobil Görünüm
-![Mobil Görünüm](./screenshots/mobile-view.png)
 
 
 
@@ -32,12 +23,19 @@ Bu proje, Trendyol'un filtreleme ve ürün listeleme sistemini örnek alarak haz
 ## 📂 Klasör Yapısı
 
 📦 Filtre-Trendyol
+
 ┣ 📁 components
+
 ┣ 📁 context
+
 ┣ 📁 styles
+
 ┣ 📁 data
+
 ┣ 📁 public
+
 ┣ 📁 screenshots
+
 ┗ 📄 README.md
 
 
@@ -45,10 +43,10 @@ Bu proje, Trendyol'un filtreleme ve ürün listeleme sistemini örnek alarak haz
 🧑‍💻 Nasıl Çalıştırılır?
 
 git clone https://github.com/kullaniciadiniz/proje-adi.git
+
 cd proje-adi
+
 npm install
+
 npm run dev
-💫 Geliştiren
-✨ Rumeysa Kahveci
-💌 LinkedIn
-📷 GitHub
+
